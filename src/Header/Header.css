@@ -1,0 +1,7 @@
+.studiam{
+    background-image:linear-gradient(rgba(36, 29, 14, 0.637),rgba(151, 126, 56, 0.233)), url(../Photo/studiam.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    padding: 120px;
+}

@@ -1,0 +1,10 @@
+.banner{
+    filter: brightness(70%);
+    max-height: 310px;
+    object-fit: cover;
+}
+.bannerLogo{
+    max-height: 200px;
+    max-width: 200px;
+    padding: 20px;
+}
